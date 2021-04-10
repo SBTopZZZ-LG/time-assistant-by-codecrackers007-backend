@@ -1,0 +1,36 @@
+{
+  "name": "my-assistant-app",
+  "version": "1.0.0",
+  "description": "my-assistant-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "my-assistant-app",
+    "assistant-app",
+    "javascript",
+    "node",
+    "nodejs",
+    "sbtopzzz",
+    "codecrackers007"
+  ],
+  "author": "CodeCrackers007",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "isomorphic-fetch": "^3.0.0",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "mysql-connection-pool-manager": "^1.5.9",
+    "nodemailer": "^6.5.0",
+    "querystring": "^0.2.1"
+  }
+}
